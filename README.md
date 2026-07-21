@@ -1,0 +1,1 @@
+Transmon qubit is modelled as an anharmonic oscillator. Time evolution under a microwave drive is simulated with the Runge-Kutta 7(8) method. Rectangular, Gaussian, and Gaussian-DRAG pulses are compared.
